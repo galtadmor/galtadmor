@@ -1,26 +1,23 @@
 #### 👋 Hey there!
 
-My name is Gal Tadmor, and I'm an Engineering Team Lead. I'm 30 years old, kickin' it in Tel Aviv, Israel. I've been developing since high school, and it's still pretty damn fun. I am currently working at Big Panda.
-
-My development projects focus on end-to-end systems, creating SaaS platforms, user interfaces, websites and games, for all devices. I keep UX in mind, by adding animations, icons and anything else that will make the difference between a very good product and a great one. I’m a fast learner, and I love researching new technologies.
+I’m Gal, and I’m a full stack team lead. I have a big passion for people, UX and organizational scale.<br/>
+I learned coding by myself in highschool, and I’ve been doing it since for both my career & personal fun.
 
 Wanna read more? Here's [my resume](https://docs.google.com/document/d/1pU7_sYlGeOi2msPbLgJWFv49RDS45SNthJ9Wo-v--ng/edit?usp=sharing).
 
 #### 🎨 Skills
 - Frontend Development
-  - HTML, (S)CSS, JavaScript, TypeScript, React, Redux, Webpack, Vite, Styled Components, RxJS, Angular, AngularJS, Vue.js, Electron, Stencil.js
+  - JavaScript, TypeScript, React, Redux, Webpack, Web sockets, Styled Components, HTML, CSS
 - Backend Development
-  - Node.js, Express.js, Kafka, Kafka Connect
-- Databases
-  - MongoDB, ElasticSearch, MySQL, Redis, Firestore
+  - Node.js, Express.js, Kafka, Kafka connect
+- Databases & Infrastructure
+  - MongoDB, ElasticSearch, MSSQL, Redis, Firestore, K8S, AWS
 - Miscellaneous
-  - Scrum, Firebase, Adobe Photoshop, Adobe XD, UX
-<!---
-#### 📹 Lectures
-- [FrontEnd in 2021 for SaaS/B2B companies](https://youtu.be/tRVCpsRXBr0?t=4020)
-- [Firebase Crash Course]()
-- [Dark Theme: An Intro to Styled Components]()
--->
+  - Scrum, Firebase, UX
+
+#### 👥 Community
+- [Podcast interview - Summarizing my first year as a TL (Hebrew, 'מפתחים חסרי תרבות')](http://notarbut.co/ep115/)
+
 #### 🎓 Education
 - PSM1 (Professional Scrum Master) - Scrum.org
 - Practical Engineer in Electronics & Computers - Amal Bet Petah Tikva
