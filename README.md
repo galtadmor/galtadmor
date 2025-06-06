@@ -1,19 +1,20 @@
 #### 👋 Hey there!
 
-I’m Gal, and I’m a full stack team lead. I have a big passion for people, UX and organizational scale.<br/>
-I learned coding by myself in highschool, and I’ve been doing it since for both my career & personal fun.
+I’m Gal, and I’m a senior engineering manager.<br/>
+I'm deeply passionate about people, business initiatives, organizational growth, and technical challenges.<br/>
+As a self-driven learner, I thrive on mentoring others and diving into complex initiatives.
 
-Wanna read more? Here's [my resume](https://docs.google.com/document/d/1pU7_sYlGeOi2msPbLgJWFv49RDS45SNthJ9Wo-v--ng/edit?usp=sharing).
+Wanna read more? Here's [my resume](https://drive.google.com/file/d/194_UABrOfWd7Nr_61WPMPYmbQII_vvWG/view).
 
 #### 🎨 Skills
-- Frontend Development
-  - JavaScript, TypeScript, React, Redux, Webpack, Web sockets, Styled Components, HTML, CSS
-- Backend Development
-  - Node.js, Express.js, Kafka, Kafka connect
-- Databases & Infrastructure
-  - MongoDB, ElasticSearch, MSSQL, Redis, Firestore, K8S, AWS
-- Miscellaneous
-  - Scrum, Firebase, UX
+- Management
+  - Team building, Project management, Product management, System design, Mentoring, Presentation, Scrum, Agile
+- Frontend
+  - JavaScript, TypeScript, React, Next.js, Redux, Web Sockets, Webpack, Vite, Tailwind, HTML, CSS
+- Backend
+  - NodeJS, Express, Kafka
+- Infra
+  - MongoDB, PostgreSQL, Redis, DynamoDB, K8s, AWS, GCP
 
 #### 👥 Community
 - [Podcast interview - Summarizing my first year as a TL (Hebrew, 'מפתחים חסרי תרבות')](http://notarbut.co/ep115/)
